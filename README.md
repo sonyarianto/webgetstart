@@ -1,2 +1,2 @@
 # webgetstart
-Template of blank web with several UI
+Template of blank web with several UI library
